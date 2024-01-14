@@ -10,7 +10,7 @@
 <p style="font-family:chiller; font-size:60px;">I have no idea what I'm doing and it's awesome!
 <br>
 
-<img src="learntocodenerd.jpg" title="Visual Analogy of Binary" alt="Visual Analogy of Binary">
+<img id="memeimage" src="learntocodenerd.jpg" title="Visual Analogy of Binary" alt="Visual Analogy of Binary">
 </p>
 
 </body>
